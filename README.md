@@ -1,4 +1,4 @@
-Sophie's Avatar Dresser
+dragon1227's Avatar Dresser
 =======================
 
 A simple Unity editor tool for adding accessories to a VR Chat avatar.
@@ -10,7 +10,7 @@ A simple Unity editor tool for adding accessories to a VR Chat avatar.
 
 Drag your clothing prefab into the Unity hierarchy at the base of your scene.
 
-Open `Tools` > `SophieBlue` > `AvatarDresser` from the menu bar.  In the
+Open `Tools` > `dragon1227` > `AvatarDresser` from the menu bar.  In the
 AvatarDresser window, drag your avatar and the clothing prefab into the
 appropriate places, then simply click `Get Dressed!`
 
